@@ -1,0 +1,17 @@
+h1 {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: green;
+  background-color: rgb(225, 217, 217);
+  text-align: center;
+}
+img {
+  width: 25%;
+  height: auto;
+}
+body {
+  background-color: aqua;
+}
+p {
+  font-size: large;
+  margin: 1%;
+}

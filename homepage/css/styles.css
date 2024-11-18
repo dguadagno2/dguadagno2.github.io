@@ -1,0 +1,13 @@
+h1 {
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  color: orange;
+  background-color: black;
+  text-align: center;
+}
+img {
+  width: 25%;
+  height: auto;
+}
+p {
+  font-size: large;
+}
